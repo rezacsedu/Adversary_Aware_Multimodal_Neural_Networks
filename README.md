@@ -1,6 +1,4 @@
-## Adversary-aware Multimodal Neural Networks for Cancer Diagnosis based on Multi-omics Data
-
-### DeepKneeExplainer
+## Adversary-aware Multimodal Neural Networks for Cancer Diagnosis from Multi-omics Data
 Code and supplementary materials for our paper titled "Adversary-aware Multimodal Neural Networks for Cancer Diagnosis based on Multi-omics Data", submitted to IEEE Access journal. There are only codes with simple file structures. 
 
 #### Methods
